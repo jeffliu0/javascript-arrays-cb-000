@@ -29,7 +29,7 @@ function accessElementInArray(array, index)
 }
 
 function removeElementFromBeginningOfArray(array){
-  return array.slice(0,0)
+  return array.splice()
 }
 
 function destructivelyRemoveElementFromEndOfArray(array){
